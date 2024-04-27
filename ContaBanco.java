@@ -76,4 +76,5 @@ public class ContaBanco {
     public void setStatus(boolean status) {
         this.status = status;
     }
+
 }
