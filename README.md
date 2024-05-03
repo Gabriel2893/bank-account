@@ -9,7 +9,7 @@ the code was written using “object-oriented programming” and consuming the c
 * Avoid Hard-Coded Numbers
 * Use Meaningful and Descriptive Names
 
-## 👨‍💻The following business rules have been created with their respective methods:
+## 👨‍💻The following methods have been created with their respective methods:
 * The user will have 2 account options when opening a new account:
     * Current Account  ---> wich will start with a balance of US$: 50.00
     * Savings account  ---> which will start with a balance of US$: 150.00
